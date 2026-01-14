@@ -1,0 +1,78 @@
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+*{
+
+    padding: 0px;
+    margin: 0px;
+      font-family: "Inter", sans-serif;
+}
+
+
+
+body{
+    background-color: black;
+}
+
+
+.container{
+    background-color: rgba(39, 38, 38, 0.726);
+
+    height: 790px;
+    max-width: 600px;
+    margin: auto;
+    margin-top: 300PX;
+    border-radius: 10px;
+    
+}
+
+img{
+    border-radius: 100px;
+     width: 100px;
+     margin-bottom: 20px;
+   
+}
+
+.front{
+    margin-bottom: 30px;
+    color: rgb(209, 205, 205);
+}
+
+.details{
+    color: white;
+    text-align: center;
+   padding: 60px;
+   
+   
+}
+
+.jess{
+    font-size: 30px;
+    font-weight: 600;
+
+}
+
+#developer{
+    color: rgb(217, 255, 0);
+    padding-bottom: 30px;
+    padding-top: 10px;
+}
+
+
+
+.links{
+    
+    display: grid;
+    gap: 30px;
+}
+
+.card{
+    background-color: rgb(52, 50, 50);
+    padding: 20px;
+    border-radius: 10px;
+    font-weight:600 ;
+    color: rgb(222, 222, 222);
+}
